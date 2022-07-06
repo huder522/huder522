@@ -2,8 +2,8 @@
  </h1>
  <p align="center"><strong>🐱‍👤I am Software Engineer from India </p>
 	
- <p align="center"><strong> 🤓 I’m Huhrol Dergashev Alimov 💖 My favorite programming language is TypeScript  </p>
- <p align="center"><strong> 💻 I am interested in frontend and blockchain development </p>
+ <p align="center"><strong> 🤓 I’m Huhrol Dergashev Alimov 💖 My favorite programming language is ...  </p>
+ <p align="center"><strong> 💻 I am interested in backend development </p>
 
 ## 🛠 Languages and Tools....  
 
