@@ -3,7 +3,7 @@
  <p align="center"><strong>🐱‍👤I am Software Engineer from India 💖 I love this</p>
 	
  <p align="center"><strong> 🤓 I’m Huhrol Dergashev Alimov 🥰 My favorite programming language is TypeScript  </p>
- <p align="center"><strong> 💻 I am interested in backend development 🐱‍👤Safe promise </p>
+ <p align="center"><strong> 💻 I am interested in backend development 🐱‍👤Safe - Promise </p>
 
 ## 🛠 Languages and Tools....  
 
