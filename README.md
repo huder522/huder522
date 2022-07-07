@@ -5,7 +5,7 @@
  <p align="center"><strong> 🤓 I’m Huhrol Dergashev Alimov 🥰 My favorite programming language is TypeScript  </p>
  <p align="center"><strong> 💻 I am interested in backend development 🐱‍👤Safe - Promise </p>
 
-## 🛠 Languages and Tools....  
+## 🛠 Main Languages and Tools....  
 
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/javascript.png"/>
@@ -17,11 +17,17 @@
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/git.png"/>
+</p>
+
+## 🛠 Just for fun 
+
+<p align="center">
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/css3.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/html-5.png"/>
 	<img width="10%" style="padding:5px" src="https://www.atacas.com/atacas/img/it/golang.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/python.png"/>
 </p>
 
 
@@ -53,7 +59,6 @@
 <img width="10%" style="padding:5px" src="https://img.icons8.com/officexs/480/000000/php-logo.png"/>
 <img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/122/PNG/512/wordpress_socialnetwork_20004.png"/>
 <img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png"/>
-<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/python.png"/>
 <img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jupyter_icon_130494.png"/>
 <img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
 <img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/python.png"/>
