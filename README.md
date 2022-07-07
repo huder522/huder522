@@ -1,26 +1,25 @@
-<h1 align="center"> 👨‍💻 Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center"> 👨‍💻 Hello there! 😎 I am really happy - 7/6/22 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  </h1>
- <p align="center"><strong>🐱‍👤I am Software Engineer from India </p>
+ <p align="center"><strong>🐱‍👤I am Software Engineer from India 💖 I love this</p>
 	
- <p align="center"><strong> 🤓 I’m Huhrol Dergashev Alimov 💖 My favorite programming language is ...  </p>
+ <p align="center"><strong> 🤓 I’m Huhrol Dergashev Alimov 🥰 My favorite programming language is TypeScript  </p>
  <p align="center"><strong> 💻 I am interested in backend development </p>
 
 ## 🛠 Languages and Tools....  
 
 <p align="center">
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/spring-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/javascript.png"/>
 	<img width="10%" style="padding:5px" src="https://icon-icons.com/icons2/2107/PNG/256/file_type_typescript_official_icon_130107.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"/>
+	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"/>
+	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/git.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/css3.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/html-5.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/postgreesql.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/git.png"/>
-	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png"/>
+	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/postgreesql.png"/>
 </p>
 
 
@@ -61,6 +60,9 @@
 <img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png"/>
 <img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/r_project_official_logo_icon_170811.png"/>
 
+<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo.png"/>
+<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/spring-logo.png"/>
+
 
 
 <img width="10%" style="padding:5px"  src="https://img.icons8.com/color/480/000000/webpack.png"/>
@@ -70,7 +72,6 @@
 <img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/sass.png"/>
 <img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/material-ui.png"/>
 <img width="10%" style="padding:5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"/>
-<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png"/>
 <img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png"/>
 	-->
 
