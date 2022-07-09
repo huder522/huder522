@@ -5,7 +5,7 @@
  <p align="center"><strong> 🤓 I’m Huhrol Dergashev Alimov 🥰 My favorite programming language is TypeScript  </p>
  <p align="center"><strong> 💻 I am interested in backend development 🐱‍👤Safe - Promise </p>
 
-## 🛠 Main Languages and Tools....  
+## 🛠 Main Tools....  
 
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/javascript.png"/>
@@ -19,7 +19,7 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 </p>
 
-## 🛠 Just for fun 
+## 🤠 Just for fun 
 
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"/>
