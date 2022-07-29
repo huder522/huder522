@@ -13,13 +13,13 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/css3.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/html-5.png"/>
-	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/external-thin-kawalan-studio/344/external-clean-code-web-seo-thin-kawalan-studio.png"/>
 </p>
 
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://icon-icons.com/icons2/2107/PNG/256/file_type_typescript_official_icon_130107.png"/>
 	<img width="10%" style="padding:5px" src="https://www.atacas.com/atacas/img/it/golang.png"/>
+	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"/>
 </p>
 
 
