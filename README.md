@@ -8,6 +8,7 @@
 ## 🛠 Main Tools....  
 
 <p align="center">
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/external-icongeek26-glyph-icongeek26/200/external-S-alphabet-icongeek26-glyph-icongeek26.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/external-icongeek26-glyph-icongeek26/344/external-E-alphabet-icongeek26-glyph-icongeek26.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
