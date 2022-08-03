@@ -20,14 +20,12 @@
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://icon-icons.com/icons2/2107/PNG/256/file_type_typescript_official_icon_130107.png"/>
 	<img width="10%" style="padding:5px" src="https://www.atacas.com/atacas/img/it/golang.png"/>
-	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"/>
 </p>
 
 
 
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/javascript.png"/>
-	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png"/>
@@ -36,10 +34,13 @@
 	<img width="10%" style="padding:5px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"/>
 </p>
 
-## 🤠 Just for fun 
+## 
 
 <p align="center">
+	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"/>
 	<img width="10%" style="padding:5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"/>
+	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"/>
+	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png"/>
 </p>
 
 
@@ -78,7 +79,6 @@
 <img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
 <img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/python.png"/>
 <img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"/>
-<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png"/>
 <img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png"/>
 <img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/r_project_official_logo_icon_170811.png"/>
 
