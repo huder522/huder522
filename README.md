@@ -10,28 +10,27 @@
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/external-icongeek26-glyph-icongeek26/200/external-S-alphabet-icongeek26-glyph-icongeek26.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/external-icongeek26-glyph-icongeek26/344/external-E-alphabet-icongeek26-glyph-icongeek26.png"/>
-	<img width="10%" style="padding:5px" src="https://icon-icons.com/icons2/2107/PNG/256/file_type_typescript_official_icon_130107.png"/>
-	<img width="10%" style="padding:5px" src="https://www.atacas.com/atacas/img/it/golang.png"/>
 </p>
 
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png"/>
 	<img width="10%" style="padding:5px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/external-thin-kawalan-studio/344/external-clean-code-web-seo-thin-kawalan-studio.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/css3.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 </p>
 
 
 
 <p align="center">
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/css3.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/html-5.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/postgreesql.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/git.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/javascript.png"/>
+	<img width="10%" style="padding:5px" src="https://icon-icons.com/icons2/2107/PNG/256/file_type_typescript_official_icon_130107.png"/>
+	<img width="10%" style="padding:5px" src="https://www.atacas.com/atacas/img/it/golang.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/external-thin-kawalan-studio/344/external-clean-code-web-seo-thin-kawalan-studio.png"/>
 </p>
 
 ## 
@@ -85,6 +84,7 @@
 <img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo.png"/>
 <img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/spring-logo.png"/>
 <img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/material-ui.png"/>
+<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/html-5.png"/>
 
 
 <img width="10%" style="padding:5px"  src="https://img.icons8.com/color/480/000000/webpack.png"/>
