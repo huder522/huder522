@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/css3.png"/>
 	<img width="10%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png"/>
 	<img width="10%" style="padding:5px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/css3.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 </p>
 
